@@ -1,0 +1,3 @@
+rootProject.name = 'pocnativeapp'
+
+include ':app'
