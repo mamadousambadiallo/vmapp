@@ -10,18 +10,14 @@
     "appcenter": "^1.1.0",
     "appcenter-analytics": "^1.1.0",
     "appcenter-crashes": "^1.1.0",
-    "mvn": "^3.5.0",
     "react": "16.0.0",
     "react-native": "^0.51.0"
   },
   "devDependencies": {
-    "appium": "^1.7.2",
-    "appium-doctor": "^1.4.3",
     "babel-jest": "22.0.4",
     "babel-preset-react-native": "4.0.0",
-    "jest": "^22.0.4",
-    "react-test-renderer": "16.0.0",
-    "wd": "^1.5.0"
+    "jest": "22.0.4",
+    "react-test-renderer": "16.0.0"
   },
   "jest": {
     "preset": "react-native"
