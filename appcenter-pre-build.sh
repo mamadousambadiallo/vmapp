@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "hello ss"
+echo "Testing running pre-build scripts"
